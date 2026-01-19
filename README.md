@@ -104,7 +104,7 @@ A portion of the collection was [distributed freely](https://medium.com/@redplan
 
 ![photo_2025-06-18_05-29-48](https://github.com/user-attachments/assets/588c67fc-0e7d-4091-9fa4-375f0f34bba2)
 
-**[Weird Friends[(https://medium.com/weird-friends/%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-weird-friends-f83583240be8)** uses Red Planet DNA's mining infrastructure to back its token with Bitcoin. This gives the $WEIRD token real value through computational backing and adds utility via $WBTC rewards for staking in WEIRD DAS.
+**[Weird Friends](https://medium.com/weird-friends/%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-weird-friends-f83583240be8)** uses Red Planet DNA's mining infrastructure to back its token with Bitcoin. This gives the $WEIRD token real value through computational backing and adds utility via $WBTC rewards for staking in WEIRD DAS.
 
 **"MiAmigos"** is backed by Red Planet NFT, generating $BTC used to buy $WEIRD tokens, which are then distributed to "MiAmigos" NFT holders.
 
