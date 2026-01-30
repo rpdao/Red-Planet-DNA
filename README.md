@@ -1,6 +1,6 @@
 # Red Planet DNA — Bridging the Physical World and Web3
 
-<img width="3172" height="1831" alt="noBgColor" src="https://github.com/user-attachments/assets/0266efe4-b00a-4d21-b73f-42ce49b22d7f" />
+<img width="3172" height="1831" alt="dna_noBgColor" src="https://github.com/user-attachments/assets/6edfe27e-3bbe-4c8f-b331-fbff9d3787e3" />
 
 > *[Red Planet DNA](https://redplanetdna.com) is a comprehensive next-generation decentralized platform that combines physical mining, Web3 technologies, DAO mechanics, and NFT tools to create a sustainable and scalable ecosystem. The goal of the project is to create a real and reliable value base for the Cosmos ecosystem, its users, and partner communities. The project is not focused on NFTs - NFTs are used solely as proof of ownership of a portion of computing power. An important architectural detail is that Red Planet DNA functions as a POSTHUMAN subDAO.*
 
